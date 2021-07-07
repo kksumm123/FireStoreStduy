@@ -6,6 +6,7 @@
 Assets/AssetStoreTools*
 
 # 이거 100메가 넘음
+/Assets/Firebase/Plugins/x86_64/FirebaseCppApp-8_0_0.so
 
 # Visual Studio cache directory
 .vs/
